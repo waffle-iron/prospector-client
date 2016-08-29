@@ -23,7 +23,7 @@ install:
 
 script:
   - npm test
-  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
+  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
   - codeclimate-test-reporter < ./coverage/lcov.info
 addons:
     code_climate:
