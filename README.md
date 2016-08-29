@@ -1,6 +1,9 @@
 # Prospector Client
 [![Build Status](https://travis-ci.org/Eusse/prospector-client.svg?branch=master)](https://travis-ci.org/Eusse/prospector-client)
 [![Coverage Status](https://coveralls.io/repos/github/Eusse/prospector-client/badge.svg?branch=master)](https://coveralls.io/github/Eusse/prospector-client?branch=master)
+[![Code Climate](https://codeclimate.com/github/Eusse/prospector-client/badges/gpa.svg)](https://codeclimate.com/github/Eusse/prospector-client)
+[![Issue Count](https://codeclimate.com/github/Eusse/prospector-client/badges/issue_count.svg)](https://codeclimate.com/github/Eusse/prospector-client)
+
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
