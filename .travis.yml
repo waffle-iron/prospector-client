@@ -24,3 +24,6 @@ install:
 script:
   - npm test
   - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
+addons:
+    code_climate:
+        repo_token: 66445b2ba80578646711c9f7d9fc762f0a95c37cb6d048104d10aa16da1fcaf8
