@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Eusse/prospector-client.png?label=ready&title=Ready)](https://waffle.io/Eusse/prospector-client)
 # Prospector Client
 [![Build Status](https://travis-ci.org/Eusse/prospector-client.svg?branch=master)](https://travis-ci.org/Eusse/prospector-client)
 [![Coverage Status](https://coveralls.io/repos/github/Eusse/prospector-client/badge.svg?branch=master)](https://coveralls.io/github/Eusse/prospector-client?branch=master)
