@@ -13,6 +13,7 @@ cache:
 before_install:
   - npm config set spin false
   - npm install -g bower
+  - npm install -g codeclimate-test-reporter
   - bower --version
   - npm install phantomjs-prebuilt
   - phantomjs --version
